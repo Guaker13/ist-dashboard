@@ -1,4 +1,3 @@
-require 'byebug'
 require 'rest-client'
 require './lib/countries'
 
