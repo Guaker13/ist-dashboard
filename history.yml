@@ -1,0 +1,7 @@
+---
+valuation: "data: {\"current\":5,\"last\":5,\"id\":\"valuation\",\"updatedAt\":1576610501721}\n\n"
+karma: "data: {\"current\":100,\"last\":100,\"id\":\"karma\",\"updatedAt\":1576610501721}\n\n"
+synergy: "data: {\"value\":10,\"id\":\"synergy\",\"updatedAt\":1576610501721}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Belgium\",\"value\":0},{\"label\":\"Canada\",\"value\":10},{\"label\":\"Germany\",\"value\":6},{\"label\":\"UK\",\"value\":3}],\"id\":\"buzzwords\",\"updatedAt\":1576610332429}\n\n"
+convergence: "data: {\"points\":[{\"x\":84,\"y\":34},{\"x\":85,\"y\":48},{\"x\":86,\"y\":2},{\"x\":87,\"y\":8},{\"x\":88,\"y\":11},{\"x\":89,\"y\":3},{\"x\":90,\"y\":3},{\"x\":91,\"y\":12},{\"x\":92,\"y\":27},{\"x\":93,\"y\":36}],\"id\":\"convergence\",\"updatedAt\":1576610501722}\n\n"
+rebels: "data: {\"items\":[{\"label\":\"Belgium\",\"value\":125}],\"id\":\"rebels\",\"updatedAt\":1576615723664}\n\n"

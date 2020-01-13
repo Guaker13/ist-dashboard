@@ -1,2 +1,1 @@
-# ist-dashboard
-XR IST Dashboard
+Check out http://smashing.github.io/smashing for more information.
